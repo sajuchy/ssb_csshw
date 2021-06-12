@@ -1,0 +1,230 @@
+/* First section start from here */
+
+.header{
+   
+    min-height: 80px;
+    background-color:orange;
+    border: double;
+    border-style: 2px;
+    border-color: red;
+    padding-left: 20px;
+}
+
+.header .nav{
+    font-size:xx-large;
+    font-style: inherit;
+    font-weight: bolder;
+    padding-left: 20px;
+    
+    
+}
+
+.a{
+    color: green;
+}
+
+.wrapp {
+    overflow: hidden;
+    border: solid;
+    border-width: 2px;
+    
+    
+
+}
+
+/* Contact section start from here */
+.contact{
+    background:url("../image/jelly.jpg");
+    background-repeat: no-repeat;
+    
+    float: left;
+    width: 65%;
+    min-height: 100px;
+    background-color:cyan;
+    
+}
+.contact .h1{
+    text-align: center;
+    font-size: xx-large;
+}
+.contact .para{
+    font-size: large;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+/* Contact end here */
+
+/* Blog section start  from here */
+
+.blog{
+    /* background: url("../image/three.png");
+    background-repeat: no-repeat; */
+    width: 35%;
+    min-height: 100px;
+    background-color: red;
+    float: right;
+    
+}
+
+.blog .h1{
+    text-align: center;
+    font-size: xx-large;
+}
+
+.blog .para{
+    font-size: large;
+    font-weight: bold;
+    font-family: sans-serif
+}
+
+/* blog end here */
+
+
+/* box section start from here */
+
+.box .h2{
+    background-color: darkorange;
+    text-align: center;
+    font-size: xx-large;
+}
+.box .img{
+    
+    float: left;
+   width: 33.3%;
+   min-height: 100px;
+   background-color: chocolate;
+
+
+}
+
+
+/* Other Content start from here */
+    
+
+.h3{
+    border: solid;
+    border-width: 2px;
+    text-align: center;
+    font-size: xx-large;
+    background-color: red;
+    padding-bottom: 2px;
+    
+}
+
+.news{
+    min-height: 100px;
+    float: left;
+    width: 25%;
+    background-color: violet;
+}
+
+.ecom {
+    min-height: 100px;
+    width: 25%;
+    float: right;
+    background-color: yellow;
+}
+
+.sport{
+    min-height: 100px;
+    width: 25%;
+    float: right;
+    background-color: brown;
+}
+
+.inter{
+    min-height: 100px;
+    width: 25%;
+    float: right;
+    background-color: deeppink;
+}
+
+/* other section end here */
+
+/* Information section Start from here */
+
+.h5{
+    border: solid;
+    border-width: 2px;
+    text-align: center;
+    font-size: xx-large;
+    background-color: red;
+    padding-bottom: 2px;
+}
+
+
+
+
+
+
+.name{
+    font-family: sans-serif;
+    font-size: x-large;
+    float: left;
+    text-align: center;
+    min-height: 100px;
+    width: 20%;
+    background-color: chartreuse;
+}
+
+.comp{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: x-large;
+    float: right;
+    min-height: 100px;
+    width: 20%;
+    background-color: crimson;
+}
+
+.ad{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: x-large;
+    float: right;
+    min-height: 100px;
+    width: 20%;
+    background-color: darkblue;
+}
+
+.ser{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: x-large;
+    float: right;
+    min-height: 100px;
+    width: 20%;
+    background-color: grey;
+}
+
+.ch{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: x-large;
+    float: right;
+    min-height: 100px;
+    width: 20%;
+    background-color: yellow;
+}
+
+
+/* Information section end here */
+
+
+/* Footer section start from here */
+
+
+
+
+.footer .fot{
+    background: url("../image/jelly.jpg");
+    background-repeat: no-repeat;
+    clear: both;
+    text-align: center;
+    font-size: xx-large;
+    font-family: sans-serif;
+    min-height: 100px;
+    padding-bottom: 10px;
+    
+}
